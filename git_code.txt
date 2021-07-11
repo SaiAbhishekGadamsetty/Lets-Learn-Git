@@ -14,6 +14,9 @@ git checkout -b "new branch" // this is used to create a new branch and checkout
 .gitignore // this is used to ignore a file if we want to keep that file as a secret
            // creatre an .gitignore file and enter inside the secret file name with extension      
 
+git hub is an open source contribution
+the code we have done in this git 
+will  be transfered in the git hub
 
 
 
