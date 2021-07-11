@@ -1,0 +1,16 @@
+git config user.name "Valid Username"
+git config user.Email "Valid Email"
+git add "file name" // this is used to add the file in staging stage
+git commit "Add some name to them" // this is used to commit the file to repositiory
+
+git status  // it will check whether files should be commmit or not
+got log // it will show the files in their respected branches
+
+HEAD - (MASTER) // main branches
+git branch "branch name" // this is used to create a new branch
+git checkout "file address or branch namme" //to check the respectedd branch
+git checkout -b "new branch" // this is used to create a new branch and checkout that branch
+
+
+
+
