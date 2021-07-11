@@ -11,6 +11,8 @@ git branch "branch name" // this is used to create a new branch
 git checkout "file address or branch namme" //to check the respectedd branch
 git checkout -b "new branch" // this is used to create a new branch and checkout that branch
 
+.gitignore // this is used to ignore a file if we want to keep that file as a secret
+           // creatre an .gitignore file and enter inside the secret file name with extension      
 
 
 
